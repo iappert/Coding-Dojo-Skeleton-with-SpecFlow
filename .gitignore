@@ -1,0 +1,14 @@
+Thumbs.db
+#Ignore files build by Visual Studio
+*.user
+*.ncb
+*.suo
+*.bak
+*.cache
+*.log
+[Bb]in
+[Dd]ebug*/
+obj/
+[Rr]elease*/
+_ReSharper*/
+
